@@ -21,3 +21,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MichalBielicki&theme=radical)](https://github.com/MichalBielicki/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/MichalBielicki)
+ 
